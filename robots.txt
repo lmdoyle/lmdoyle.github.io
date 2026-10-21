@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lmdoyle.github.io/sitemap.xml
